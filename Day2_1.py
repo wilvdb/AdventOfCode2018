@@ -1,6 +1,6 @@
 import string
 
-with open("2_input") as f:
+with open("2-1_input") as f:
     content = f.readlines()
 
 alphabet = string.ascii_lowercase[:26]
