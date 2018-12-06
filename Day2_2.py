@@ -1,5 +1,3 @@
-import string
-
 with open("2-2_input") as f:
     content = f.readlines()
 
